@@ -36,7 +36,7 @@ namespace PieceOfArtProject.Models
                 }
 
                 
-                
+                //
                 );
             modelBuilder.Entity<ArtPiece>().HasData(new ArtPiece {
             
