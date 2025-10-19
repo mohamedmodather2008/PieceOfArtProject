@@ -36,7 +36,7 @@ namespace PieceOfArtProject.Models
                 }
 
                 
-                //
+                //modather
                 );
             modelBuilder.Entity<ArtPiece>().HasData(new ArtPiece {
             
